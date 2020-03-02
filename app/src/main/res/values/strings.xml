@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Lab5</string>
-    <string name="logout">Logout</string>
-    <string name="add_note">Add Note</string>
-    <string name="write_here">Write here...</string>
-    <string name="save">save</string>
-</resources>
